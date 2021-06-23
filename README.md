@@ -13,11 +13,13 @@ Kaggle Competition Repogitory
 - [Jaccard-based FBeta score (micro F-0.5 score)](https://machinelearningmastery.com/fbeta-measure-for-machine-learning/)
 
 
-## Teams
+## Team With
 
 - [takapy](https://www.kaggle.com/takanobu0210)
 
 - [asteriam](https://www.kaggle.com/masatakashiwagi)
+
+Thank you for playing with me!
 
 
 ## Result
