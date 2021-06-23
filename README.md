@@ -60,7 +60,6 @@ http://localhost:8888/lab
         - BERT Input Max Length is up to 512 in the default setting.
         - So, we need to expand text data to input all of texts to BERT.
             - https://www.kaggle.com/bootiu/coleridge-expand-text-dataset
-            
 - Train Config
     - CV
         - StratifiedKFold(n_splits=5, shuffle=True)
@@ -71,7 +70,6 @@ http://localhost:8888/lab
         - RAdam (using pytorch_optimizer)
     - Scheduler
         - transformers.get_cosine_with_hard_restarts_schedule_with_warmup
-
 - Model
     - SciBERT
         - backbone: SciBERT_scivocab_uncased
