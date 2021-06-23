@@ -19,7 +19,7 @@ Kaggle Competition Repogitory
 
 - [asteriam](https://www.kaggle.com/masatakashiwagi)
 
-Thank you for playing with me!
+**Thank you for playing with me!**
 
 
 ## Result
